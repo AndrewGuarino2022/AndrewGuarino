@@ -1,0 +1,164 @@
+<!-- Generated code: DO NOT EDIT! Any changes will void this file. -->
+<!-- A4D9D8CA72CA1EED76CF3E7809D1B9A5 -->
+<opt autoreadsensors="2" class="Scribbler_Worksheet" version="1.8">
+  <_children active="1" activecalls="0" activeout="1" class="Scribbler_Subroutine" color="green" counters="0" subclass="">
+    <_children active="1" activeout="0" class="Scribbler_SubroutineTile" subclass="sub_begin">
+      <action icon="gear_green" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_LedTile" subclass="">
+      <action>
+        <_states>off</_states>
+        <_states>off</_states>
+        <_states>on</_states>
+      </action>
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left=" 50" right="-50" text="50:-50 2.00s" timer="2.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_LedTile" subclass="">
+      <action>
+        <_states>off</_states>
+        <_states>on</_states>
+        <_states>off</_states>
+      </action>
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_fwd" left=" 50" right=" 50" text="50:50 3.50s" timer="3.50" type="set" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_LedTile" subclass="">
+      <action>
+        <_states>on</_states>
+        <_states>off</_states>
+        <_states>off</_states>
+      </action>
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_left" left="-50" right=" 50" text="-50:50 2.00s" timer="2.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_LedTile" subclass="">
+      <action>
+        <_states>off</_states>
+        <_states>on</_states>
+        <_states>off</_states>
+      </action>
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_fwd" left=" 50" right=" 50" text="50:50 3.50s" timer="3.50" type="set" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_LedTile" subclass="">
+      <action>
+        <_states>on</_states>
+        <_states>off</_states>
+        <_states>off</_states>
+      </action>
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_left" left="-50" right=" 50" text="-50:50 2.00s" timer="2.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_LedTile" subclass="">
+      <action>
+        <_states>off</_states>
+        <_states>on</_states>
+        <_states>off</_states>
+      </action>
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_fwd" left=" 50" right=" 50" text="50:50 5.00s" timer="5.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_LedTile" subclass="">
+      <action>
+        <_states>off</_states>
+        <_states>on</_states>
+        <_states>off</_states>
+      </action>
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_fwd" left=" 50" right=" 50" text="50:50 2.00s" timer="2.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_left" left="-50" right=" 50" text="-50:50 2.00s" timer="2.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_LedTile" subclass="">
+      <action>
+        <_states>off</_states>
+        <_states>on</_states>
+        <_states>off</_states>
+      </action>
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_fwd" left=" 50" right=" 50" text="50:50 3.50s" timer="3.50" type="set" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_left" left="-50" right=" 50" text="-50:50 2.00s" timer="2.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_LedTile" subclass="">
+      <action>
+        <_states>off</_states>
+        <_states>on</_states>
+        <_states>off</_states>
+      </action>
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_fwd" left=" 50" right=" 50" text="50:50 3.50s" timer="3.50" type="set" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_LedTile" subclass="">
+      <action>
+        <_states>off</_states>
+        <_states>off</_states>
+        <_states>on</_states>
+      </action>
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left=" 50" right="-50" text="50:-50 2.00s" timer="2.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_LedTile" subclass="">
+      <action>
+        <_states>off</_states>
+        <_states>on</_states>
+        <_states>off</_states>
+      </action>
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_fwd" left=" 50" right=" 50" text="50:50 5.00s" timer="5.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_LedTile" subclass="">
+      <action>
+        <_states>off</_states>
+        <_states>on</_states>
+        <_states>off</_states>
+      </action>
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_fwd" left=" 50" right=" 50" text="50:50 2.00s" timer="2.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_SequencerTile" subclass="">
+      <action call="" icon="tune" tempo="5" text="TD! Ch!">
+        <_sequence abbr="TD!" bars="1" class="Scribbler_SoundBite" color="red" comment="Ta Dah!" group="Bugle" notelength="1/4" notetranspose="0" tremolo="0">
+          <_notes dmult="1" duration="152.5" fmult="1" type="note">
+            <_frequency>659.25511382574</_frequency>
+            <_frequency>1046.50226120239</_frequency>
+          </_notes>
+          <_notes dmult="1" duration="35" fmult="1" frequency="0" type="note" />
+          <_notes dmult="3" duration="187.5" fmult="1" type="note">
+            <_frequency>659.25511382574</_frequency>
+            <_frequency>1046.50226120239</_frequency>
+          </_notes>
+        </_sequence>
+        <_sequence abbr="Ch!" bars="1" class="Scribbler_SoundBite" color="red" comment="Charge!" group="Bugle" notelength="1/4" notetranspose="0" tremolo="0">
+          <_notes dmult="1" duration="187.5" fmult="1" frequency="391.995435981749" type="note" />
+          <_notes dmult="1" duration="187.5" fmult="1" frequency="523.251130601197" type="note" />
+          <_notes dmult="1" duration="187.5" fmult="1" frequency="659.25511382574" type="note" />
+          <_notes dmult="1" duration="187.5" fmult="1" frequency="783.990871963499" type="note" />
+          <_notes dmult="1" duration="187.5" fmult="1" frequency="0" type="note" />
+          <_notes dmult="1" duration="187.5" fmult="1" frequency="659.25511382574" type="note" />
+          <_notes dmult="6" duration="187.5" fmult="1" frequency="783.990871963499" type="note" />
+        </_sequence>
+      </action>
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_SubroutineTile" subclass="sub_end">
+      <action icon="gear_green" />
+    </_children>
+    <action></action>
+    <callsto></callsto>
+  </_children>
+</opt>
